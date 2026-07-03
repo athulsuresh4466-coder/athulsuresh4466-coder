@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Athul%20Suresh&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Undergrad&descAlignY=55&descSize=18" />
 
-<a href="https://github.com/athulsuresh4466">
+<a href="https://github.com/athulsuresh4466-coder">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+Django+%26+JS;3rd+Year+CSE+%40+NIET+(2024+-+2028);Python+%7C+Java+%7C+SQL+%7C+Git+%2F+GitHub;Turning+ideas+into+deployed+products" alt="Typing SVG" />
 </a>
 
@@ -44,18 +44,18 @@
 
 <div align="center">
 
-<a href="https://github.com/athulsuresh4466">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466&repo=pp-co-website&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
+<a href="https://github.com/athulsuresh4466-coder">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=pp-co-website&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
 </a>
-<a href="https://github.com/athulsuresh4466">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466&repo=sand-grain-mapper&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
+<a href="https://github.com/athulsuresh4466-coder">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=sand-grain-mapper&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
 </a>
 
-<a href="https://github.com/athulsuresh4466">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466&repo=digital-marketing-django&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
+<a href="https://github.com/athulsuresh4466-coder">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=digital-marketing-django&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
 </a>
-<a href="https://github.com/athulsuresh4466">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466&repo=rice-mill-django&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
+<a href="https://github.com/athulsuresh4466-coder">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=rice-mill-django&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
 </a>
 
 </div>
@@ -75,12 +75,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=athulsuresh4466&show_icons=true&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulsuresh4466&layout=compact&theme=github_dark&border_color=D4AF37&title_color=D4AF37&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=athulsuresh4466-coder&show_icons=true&theme=github_dark&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulsuresh4466-coder&layout=compact&theme=github_dark&border_color=D4AF37&title_color=D4AF37&hide_border=false" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=athulsuresh4466&theme=github-dark-blue&border=D4AF37&ring=D4AF37&fire=D4AF37" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=athulsuresh4466-coder&theme=github-dark-blue&border=D4AF37&ring=D4AF37&fire=D4AF37" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=athulsuresh4466&theme=github-compact&hide_border=true&color=D4AF37&line=D4AF37&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=athulsuresh4466-coder&theme=github-compact&hide_border=true&color=D4AF37&line=D4AF37&point=ffffff" />
 
 </div>
 
