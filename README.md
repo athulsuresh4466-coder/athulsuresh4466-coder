@@ -42,32 +42,58 @@
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/athulsuresh4466-coder">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=pp-co-website&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
-</a>
-<a href="https://github.com/athulsuresh4466-coder">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=sand-grain-mapper&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
-</a>
+### 🏗️ PP & CO
+**Construction & engineering company site**
 
-<a href="https://github.com/athulsuresh4466-coder">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=digital-marketing-django&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
-</a>
-<a href="https://github.com/athulsuresh4466-coder">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=athulsuresh4466-coder&repo=rice-mill-django&theme=github_dark&border_color=D4AF37&title_color=D4AF37" />
-</a>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</div>
+Parallax effects, scroll animations, hamburger nav, navy & gold design — shipped as a single self-contained file.
 
-> **Note:** these pinned cards only render once you create/rename repos on GitHub with those exact names (or update the `repo=` value to match your real repo names).
+</td>
+<td width="50%" valign="top">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **PP & CO** — construction company site | HTML, CSS, JS | Parallax effects, scroll animations, navy & gold design, single-file build |
-| **Sand Grain Size Mapper** | HTML, CSS, JS, Canvas | Live camera capture, image processing pipeline, responsive UI |
-| **Digital Marketing Platform** | Django, SMM API, Razorpay | Full payment integration, rebuilt from Node.js to Django |
-| **Rice Mill Website** | Django | Internship project — business site with backend admin |
+### 🔬 Sand Grain Size Mapper
+**Image-processing web app**
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Canvas](https://img.shields.io/badge/-Canvas%20API-FF6B00?style=flat-square)
+
+Live camera capture with `getUserMedia()`, custom image-processing pipeline, fully responsive UI.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Digital Marketing Platform
+**Full-stack SMM panel with payments**
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+
+SMM panel API integration and Razorpay payment gateway — first built in Node.js/Express, then fully rebuilt in Django.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Rice Mill Website
+**Business site — internship project**
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Client-facing business website with a Django backend admin, built during a Python Full Stack Development internship.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -81,6 +107,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulsuresh4466-coder&theme=github-dark-blue&border=D4AF37&ring=D4AF37&fire=D4AF37" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=athulsuresh4466-coder&theme=github-compact&hide_border=true&color=D4AF37&line=D4AF37&point=ffffff" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=athulsuresh4466-coder&theme=gitdimmed&no-frame=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
