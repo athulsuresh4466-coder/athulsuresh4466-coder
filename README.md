@@ -42,60 +42,71 @@
 
 ## Featured Projects
 
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 SKOVA
+**AI-powered adaptive interview platform**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+AI-powered interview platform with candidate-specific question generation, AI answer evaluation, skill analysis, interview history, and adaptive interviews.
+
+🔗 **[Live Demo](https://skova-1.onrender.com/)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📅 NextDue
+**Bill & reminder management app**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+React and Firebase application for managing bills, due dates, recurring payments, and reminders with cloud data storage.
+
+🔗 **[Live Demo](https://nextdues.firebaseapp.com/)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 K R Rice Mill
+**Business website — Django project**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+Client-facing business website with Django backend, database integration, dynamic content, and Django Admin panel.
+
+🔗 **[Live Demo](https://krricemillmuttichira.pythonanywhere.com/)**
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🏗️ PP & CO
-**Construction & engineering company site**
+**Construction & engineering company website**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Parallax effects, scroll animations, hamburger nav, navy & gold design — shipped as a single self-contained file.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Sand Grain Size Mapper
-**Image-processing web app**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas](https://img.shields.io/badge/-Canvas%20API-FF6B00?style=flat-square)
-
-Live camera capture with `getUserMedia()`, custom image-processing pipeline, fully responsive UI.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Digital Marketing Platform
-**Full-stack SMM panel with payments**
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-
-SMM panel API integration and Razorpay payment gateway — first built in Node.js/Express, then fully rebuilt in Django.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Rice Mill Website
-**Business site — internship project**
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Client-facing business website with a Django backend admin, built during a Python Full Stack Development internship.
+Modern company website with responsive design, parallax effects, scroll animations, navigation, and professional UI.
 
 </td>
 </tr>
 </table>
-
-<br>
 
 ## GitHub Stats
 
