@@ -41,7 +41,7 @@
 
 A full-stack travel agency platform featuring destination discovery, travel packages, booking management, payment integration, and a dedicated admin dashboard.
 
-🔗 **[Live Website](https://the-wild-root.vercel.app/)**
+🔗 **[Live Website](https://the-wild-route.vercel.app/)**
 
 <details>
 <summary><b>📖 View Full Project Details</b></summary>
