@@ -21,79 +21,202 @@
 
 <br>
 
-## Tech Stack
 
-<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
-<br>
-
-## Featured Projects
-
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 SKOVA
-**AI-powered adaptive interview platform**
+### 🌍 The Wild Root
+**Premium Travel Agency & Booking Platform**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/-NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 
-AI-powered interview platform with candidate-specific question generation, AI answer evaluation, skill analysis, interview history, and adaptive interviews.
+A full-stack travel agency platform featuring destination discovery, travel packages, booking management, payment integration, and a dedicated admin dashboard.
 
-🔗 **[Live Demo](https://skova-1.onrender.com/)**
+🔗 **[Live Website](https://the-wild-root.vercel.app/)**
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+#### Overview
+
+The Wild Root is a full-stack travel agency platform designed to manage travel destinations, packages, customer inquiries, bookings, and administrative operations through a centralized system.
+
+#### Key Features
+
+- 🌍 Destination and travel package catalog
+- 🧳 Group tours and custom trip inquiries
+- 📅 Booking and departure management
+- 💳 Razorpay payment integration
+- 📧 Resend transactional email integration
+- 💬 WhatsApp click-to-chat integration
+- 🏨 Hotel, activity, and add-on management
+- 🎟️ Travel voucher and PDF features
+- 🛠️ Admin dashboard for managing website content and operations
+- 🔐 Staff roles and protected administrative settings
+
+#### Technology Stack
+
+| Component | Technology |
+|---|---|
+| Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| Backend | Python, FastAPI |
+| Database | PostgreSQL on Neon |
+| Frontend hosting | Vercel |
+| Backend hosting | Render |
+| Email | Resend |
+| Payments | Razorpay |
+| Source control | Git and GitHub |
+
+#### Architecture
+
+The Next.js frontend communicates with the FastAPI backend through APIs. The backend handles business logic, database operations, email integration, and payment-related workflows. PostgreSQL stores the application's persistent data.
+
+#### Project Links
+
+- [Open Live Website](https://the-wild-root.vercel.app/)
+- [GitHub Profile & Repositories](https://github.com/athulsuresh4466-coder?tab=repositories)
+
+*Repository link: Add the direct repository URL when the project repository is confirmed.*
+
+</details>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📅 NextDue
-**Bill & reminder management app**
+### 🤖 SKOVA
+**AI-Powered Adaptive Interview Platform**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-React and Firebase application for managing bills, due dates, recurring payments, and reminders with cloud data storage.
+An interview practice platform with candidate-specific questions and AI-assisted answer evaluation.
 
-🔗 **[Live Demo](https://nextdues.firebaseapp.com/)**
+🔗 [Live Demo](https://skova-1.onrender.com/)
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+- Profile-based interview questions
+- Multiple interview rounds
+- AI-assisted evaluation and feedback
+- Skill analysis and improvement suggestions
+- Interview history
+
+**Stack:** React, Tailwind CSS, FastAPI, Python, MongoDB, AI API integration.
+
+[Explore GitHub](https://github.com/athulsuresh4466-coder?tab=repositories)
+
+</details>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 K R Rice Mill
-**Business website — Django project**
+### 📅 NextDue
+**Bill & Reminder Management App**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Client-facing business website with Django backend, database integration, dynamic content, and Django Admin panel.
+A cloud-backed application for managing bills, due dates, recurring payments, and reminders.
 
-🔗 **[Live Demo](https://krricemillmuttichira.pythonanywhere.com/)**
+🔗 [Live Demo](https://nextdues.firebaseapp.com/)
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+- Bill and due-date management
+- Recurring payment tracking
+- Reminder management
+- Cloud data storage
+
+**Stack:** React, Firebase, Cloud Firestore.
+
+[Explore GitHub](https://github.com/athulsuresh4466-coder?tab=repositories)
+
+</details>
 
 </td>
-
 <td width="50%" valign="top">
+
+### 🌾 K R Rice Mill
+**Business Website — Django**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+A business website providing rice mill information and dynamic content management.
+
+🔗 [Live Demo](https://krricemillmuttichira.pythonanywhere.com/)
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+- Business information pages
+- Django backend
+- Database integration
+- Django Admin content management
+
+**Stack:** Python, Django, SQLite.
+
+[Explore GitHub](https://github.com/athulsuresh4466-coder?tab=repositories)
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ PP & CO
+**Construction & Engineering Website**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+A modern company website with responsive layouts, navigation, animations, and professional UI.
+
+<details>
+<summary><b>📖 View Full Project Details</b></summary>
+
+- Responsive design
+- Service presentation
+- Navigation
+- Parallax effects
+- Scroll animations
+
+**Stack:** HTML5, CSS3, JavaScript.
+
+[Explore GitHub](https://github.com/athulsuresh4466-coder?tab=repositories)
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+**Explore My Development Work**
+
+Discover additional coding projects, experiments, and repositories.
+
+[Browse All Repositories](https://github.com/athulsuresh4466-coder?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ### 🏗️ PP & CO
 **Construction & engineering company website**
