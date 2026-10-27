@@ -30,7 +30,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 The Wild Root
+### 🌍 The Wild Route
 **Premium Travel Agency & Booking Platform**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
