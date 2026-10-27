@@ -82,7 +82,7 @@ The Next.js frontend communicates with the FastAPI backend through APIs. The bac
 
 #### Project Links
 
-- [Open Live Website](https://the-wild-root.vercel.app/)
+- [Open Live Website](https://the-wild-route.vercel.app/)
 - [GitHub Profile & Repositories](https://github.com/athulsuresh4466-coder?tab=repositories)
 
 *Repository link: Add the direct repository URL when the project repository is confirmed.*
@@ -218,18 +218,7 @@ Discover additional coding projects, experiments, and repositories.
 </tr>
 </table>
 
-### 🏗️ PP & CO
-**Construction & engineering company website**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Modern company website with responsive design, parallax effects, scroll animations, navigation, and professional UI.
-
-</td>
-</tr>
-</table>
 
 ## GitHub Stats
 
